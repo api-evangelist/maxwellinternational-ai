@@ -1,4 +1,4 @@
-# maxwellinternational-ai
+# Maxwell International
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,125 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-maxwellinternational-ai is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://maxwellinternational.ai/
+Maxwell International operates a global AI‑driven directory that connects consumers with service providers across sports instruction, construction, education, food, lodging, equipment rental, transport and wellness. Users list their businesses in minutes without an account, receive a private key, and AI assistants recommend them to end‑users. The platform respects data protection laws, offers no tracking cookies beyond language preference, and handles payments via crypto wallets.
+
+**Areas:** AI · Directory · Services · Marketplace · Global
+
+## Maxwell International on APIs.io
+
+Everything profiled for Maxwell International is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/maxwellinternational-ai/](https://apis.io/providers/maxwellinternational-ai/)** — or go straight to one of the APIs or properties below.
+
+### APIs (23)
+
+- [Maxwell International Courts API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-courts-api/) — The courts API from Maxwell International — 1 operation(s) for courts.
+- [Maxwell International Doctor API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-doctor-api/) — The doctor API from Maxwell International — 6 operation(s) for doctor.
+- [Maxwell International Domain API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-domain-api/) — The domain API from Maxwell International — 1 operation(s) for domain.
+- [Maxwell International Edgar API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-edgar-api/) — The edgar API from Maxwell International — 4 operation(s) for edgar.
+- [Maxwell International Food API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-food-api/) — The food API from Maxwell International — 4 operation(s) for food.
+- [Maxwell International Gb API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-gb-api/) — The gb API from Maxwell International — 1 operation(s) for gb.
+- [Maxwell International Gov API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-gov-api/) — The gov API from Maxwell International — 30 operation(s) for gov.
+- [Maxwell International Insider Info API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-insider-info-api/) — The insider-info API from Maxwell International — 1 operation(s) for insider-info.
+- [Maxwell International Llm API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-llm-api/) — The llm API from Maxwell International — 1 operation(s) for llm.
+- [Maxwell International Macro API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-macro-api/) — The macro API from Maxwell International — 2 operation(s) for macro.
+- [Maxwell International Market API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-market-api/) — The market API from Maxwell International — 2 operation(s) for market.
+- [Maxwell International Nvd API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-nvd-api/) — The nvd API from Maxwell International — 1 operation(s) for nvd.
+- [Maxwell International Ofac API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-ofac-api/) — The ofac API from Maxwell International — 1 operation(s) for ofac.
+- [Maxwell International Openfda API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-openfda-api/) — The openfda API from Maxwell International — 4 operation(s) for openfda.
+- [Maxwell International Rdap API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-rdap-api/) — The rdap API from Maxwell International — 1 operation(s) for rdap.
+- [Maxwell International Registry API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-registry-api/) — The registry API from Maxwell International — 1 operation(s) for registry.
+- [Maxwell International Resort API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-resort-api/) — The resort API from Maxwell International — 1 operation(s) for resort.
+- [Maxwell International Ski API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-ski-api/) — The ski API from Maxwell International — 6 operation(s) for ski.
+- [Maxwell International Token API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-token-api/) — The token API from Maxwell International — 1 operation(s) for token.
+- [Maxwell International Trip API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-trip-api/) — The trip API from Maxwell International — 6 operation(s) for trip.
+- [Maxwell International Uspto API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-uspto-api/) — The uspto API from Maxwell International — 1 operation(s) for uspto.
+- [Maxwell International Weather API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-weather-api/) — The weather API from Maxwell International — 8 operation(s) for weather.
+- [Maxwell International X402 API](https://apis.io/apis/maxwellinternational-ai/maxwellinternational-ai-x402-api/) — The x402 API from Maxwell International — 1 operation(s) for x402.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Maxwell International Agentic Access](https://apis.io/agentic-access/maxwellinternational-ai/maxwellinternational-ai-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Maxwell International API Rules](https://apis.io/rules/maxwellinternational-ai/maxwellinternational-ai-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Maxwell International Domain Security](https://apis.io/security/maxwellinternational-ai/maxwellinternational-ai-domain-security/)
+- [Maxwell International Vulnerability Disclosure](https://apis.io/security/maxwellinternational-ai/maxwellinternational-ai-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://maxwellinternational.ai/)
+- [Support](https://maxwellinternational.ai/support)
+- [Security](https://api.maxwellinternational.ai/terms.json)
+- [Terms of service](https://maxwellinternational.ai/terms)
+- [Privacy policy](https://maxwellinternational.ai/privacy)
+
+## API Evangelist rating
+
+**Kin Score 36.8** — thin · rubric 0.28.0 · scored 2026-11-18
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 46.4 |
+| Contract governance | 79.1 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 11.2 |
+| Access clarity | 17.0 |
+
+**Agent readiness 31.9** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | verified |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/maxwellinternational-ai/](https://apis.io/providers/maxwellinternational-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Maxwell International: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/maxwellinternational-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
